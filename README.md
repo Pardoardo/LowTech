@@ -1,0 +1,1 @@
+**Atenção:** Este sistema de banco de dados não é nem um pouco seguro, se você for usar este sistema para armazernar qualquer tipo de dado, faça questão de não colocar nenhum tipo de informação importante ou sensível.
